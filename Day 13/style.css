@@ -22,7 +22,7 @@ button{
     background-color: rgb(127, 197, 127);
 }
 
-input{
+select{
     width: 300px;
     height: 40px;
     border-radius: 8px;
